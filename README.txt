@@ -2,3 +2,4 @@
 1. git
 2. github
 3. GUI
+4. CLI
