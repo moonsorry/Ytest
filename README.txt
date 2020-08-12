@@ -3,4 +3,4 @@
 2. github
 3. GUI
 4. CLI
-5. raccon
+5. raccoon
